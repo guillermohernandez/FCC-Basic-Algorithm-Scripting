@@ -15,4 +15,4 @@ function confirmEnding(str, target) {
 
 confirmEnding("Bastian", "n"); //TRUE
 confirmEnding("He has to give me a new name", "name"); //TRUE
-confirmEnding("Open sesame", "same") //TRUE
+confirmEnding("Open sesame", "same"); //TRUE
